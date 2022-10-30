@@ -1,6 +1,6 @@
 # LATIHAN 1
 
-# Penggunaan End
+<strong>Penggunaan End<strong>
 
 print("A", end="")
 
@@ -16,7 +16,7 @@ print("Y")
 
 print("Z")
 
-# Penggunaan separator
+<strong>Penggunaan separator<strong>
 
 w, x, y, z=10, 15, 20, 25
 
@@ -30,7 +30,7 @@ print(w, x, y, z, sep=":")
 
 print(w, x, y, z, sep="_____")
 
-# string format
+<strong>string format<strong>
 
 print(0, 10**0)
 
@@ -54,7 +54,7 @@ print(9, 10**9)
 
 print(10, 10**10)
 
-# string format
+<strong>string format<strong>
 
 print("{0:>3} {1:>16}".format(0, 10**0))
 
@@ -93,7 +93,7 @@ print("Variabel b=",b)
 
 print("Hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
 
-# Konversi nilai variabel
+<strong>Konversi nilai variabel<strong>
 
 a=int(a)
 
@@ -123,7 +123,7 @@ print('kelilingnya =', str("%.2f" % keliling))
 
 # Flowchart Menghitung Luas Lingkaran
 
-[image](SC/Capture5.PNG)
+![image](SC/Capture5.PNG)
 
 <strong>Sekian dan terima kasih<strong>
 
