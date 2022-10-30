@@ -80,6 +80,7 @@ print("{0:>3} {1:>16}".format(9, 10**9))
 
 print("{0:>3} {1:>16}".format(10, 10**10))
 
+![image](SC/Capture1.PNG)
 
 # LATIHAN 2
 
