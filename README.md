@@ -121,6 +121,9 @@ print('\nLuasnya =', str("%.2f" % luas))
 
 print('kelilingnya =', str("%.2f" % keliling))
 
+# Flowchart Menghitung Luas Lingkaran
+
+[image](SC/Capture5.PNG)
 
 <strong>Sekian dan terima kasih<strong>
 
