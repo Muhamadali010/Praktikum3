@@ -104,9 +104,13 @@ print("Hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 
 print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 
+![image](SC/Capture2.PNG)
+
 # LATIHAN 3
 
 Belum selesai
+
+![image](SC/Capture3.PNG)
 
 # LATIHAN 4
 
@@ -121,6 +125,8 @@ keliling = phi*diameter
 print('\nLuasnya =', str("%.2f" % luas))
 
 print('kelilingnya =', str("%.2f" % keliling))
+
+![image](SC/Capture4.PNG)
 
 # Flowchart Menghitung Luas Lingkaran
 
