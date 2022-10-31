@@ -1,6 +1,6 @@
 # LATIHAN 1
 
-<strong>Penggunaan End<strong>
+# Penggunaan End
 
 print("A", end="")
 
@@ -16,7 +16,7 @@ print("Y")
 
 print("Z")
 
-<strong>Penggunaan separator<strong>
+# Penggunaan separator
 
 w, x, y, z=10, 15, 20, 25
 
@@ -30,7 +30,7 @@ print(w, x, y, z, sep=":")
 
 print(w, x, y, z, sep="_____")
 
-<strong>string format<strong>
+# string format
 
 print(0, 10**0)
 
@@ -54,7 +54,7 @@ print(9, 10**9)
 
 print(10, 10**10)
 
-<strong>string format<strong>
+# string format
 
 print("{0:>3} {1:>16}".format(0, 10**0))
 
@@ -94,7 +94,7 @@ print("Variabel b=",b)
 
 print("Hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
 
-<strong>Konversi nilai variabel<strong>
+# Konversi nilai variabel
 
 a=int(a)
 
@@ -126,7 +126,9 @@ print('kelilingnya =', str("%.2f" % keliling))
 
 ![image](SC/Capture5.PNG)
 
-<strong>Sekian dan terima kasih<strong>
+
+
+# Sekian dan terima kasih
 
 
 

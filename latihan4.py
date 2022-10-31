@@ -1,11 +1,11 @@
-r = float(input('Masukkan nilai jari-jari : '))
+r = input("Masukkan jari-jari lingkaran : ")
 
-phi = 3.14 diameter = 2*r
+pi = 3.14
 
-luas = phirr
+l = pi * int(r) * int(r)
 
-keliling = phi*diameter
+k = 2 * pi * int(r)
 
-print('\nLuasnya =', str("%.2f" % luas))
+print("Luas Lingkaran : ",l)
 
-print('kelilingnya =', str("%.2f" % keliling))
+print("Keliling Lingkaran : ",k)
